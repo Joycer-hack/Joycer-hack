@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <a href="https://gitee.com/Joycer-hack" target="blank"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/git.jpg" alt="" height="30" width="40" /></a>
   <a href="https://www.xnani.online" target="_blank"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/WebPage.png" alt="" height="40" width="40" /></a>
 </p>
+
+[![GitHub Streak](/?user=Joycer-hack)](/streak-stats)
