@@ -77,24 +77,26 @@ Here are some ideas to get you started:
 
 # 目录
 
-- #### <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/csdn.jpg" width="60"/>  [CSDN](https://blog.csdn.net/weixin_46047677/category_11653961.html)
+<img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/csdn.jpg" width="60"/>
+- ####   [CSDN](https://blog.csdn.net/weixin_46047677/category_11653961.html)
   
   - [有边数限制且存在负权值的最短路](https://blog.csdn.net/weixin_46047677/article/details/123686401)
   - [spfa判断负环](https://blog.csdn.net/weixin_46047677/article/details/123705120)
   - [spfa求最短路](https://blog.csdn.net/weixin_46047677/article/details/123688545)
 
-- #### <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/csdn.jpg" width="60"/>  [Verilog HDL](https://blog.csdn.net/weixin_46047677/category_11722353.html)
+- ####  [Verilog HDL](https://blog.csdn.net/weixin_46047677/category_11722353.html)
   
   - [奇偶校验位产生器](https://blog.csdn.net/weixin_46047677/article/details/123837647)
   - [数字交通灯](https://blog.csdn.net/weixin_46047677/article/details/124033863)
   
-- #### <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/WebPage.png">[BUG](https://www.xnani.online/category/bug)
   
+<img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/WebPage.png">
+- #### [BUG](https://www.xnani.online/category/bug)
   - [com.mysql.jdbc.Driver过时警告](https://www.xnani.online/2022/09/17/15.html)
   - [web.xml换过根目录导致报错500](https://www.xnani.online/2022/09/19/83.html)
 
 
-- #### <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/WebPage.png" width="80" />  [学习笔记](https://www.xnani.online/category/%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0)
+-  width="80" />  [学习笔记](https://www.xnani.online/category/%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0)
   - [Java](https://www.xnani.online/2022/09/19/88.html)
 
 
