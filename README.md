@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 # 目录
 
-<a href="https://gitee.com/Joycer-hack" target="blank"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/git.jpg" alt="" height="30" width="40" /></a>
+<a href="https://gitee.com/Joycer-hack" target="blank"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220920101457.png" alt="" height="30" width="40" /></a>
 
 - ####   [CSDN](https://blog.csdn.net/weixin_46047677/category_11653961.html)
   
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
   - [数字交通灯](https://blog.csdn.net/weixin_46047677/article/details/124033863)
   
   
-<a href="https://www.xnani.online" target="_blank"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/WebPage.png" alt="" height="40" width="40" /></a>
+<a href="https://www.xnani.online" target="_blank"><img align="center" src="https://gitee.com/static/images/logo-black.svg?t=158106664" alt="" height="40" width="40" /></a>
 
 - #### [BUG](https://www.xnani.online/category/bug)
   - [com.mysql.jdbc.Driver过时警告](https://www.xnani.online/2022/09/17/15.html)
