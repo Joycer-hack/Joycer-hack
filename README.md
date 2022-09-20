@@ -91,7 +91,7 @@ Here are some ideas to get you started:
   - [数字交通灯](https://blog.csdn.net/weixin_46047677/article/details/124033863)
   
   
-<a href="https://www.xnani.online" target="_blank"><img align="center" src="https://gitee.com/static/images/logo-black.svg?t=158106664" alt="" height="50" width="50" /></a>
+<a href="https://www.xnani.online" target="_blank"><img align="center" src="https://gitee.com/static/images/logo-black.svg?t=158106664" alt="" height="200" width="200" /></a>
 
 - #### [BUG](https://www.xnani.online/category/bug)
   - [com.mysql.jdbc.Driver过时警告](https://www.xnani.online/2022/09/17/15.html)
