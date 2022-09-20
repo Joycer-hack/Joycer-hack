@@ -90,7 +90,7 @@ Here are some ideas to get you started:
   - [数字交通灯](https://blog.csdn.net/weixin_46047677/article/details/124033863)
   
   
-<img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/WebPage.png">
+<img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/WebPage.png" width="60"/>
 - #### [BUG](https://www.xnani.online/category/bug)
   - [com.mysql.jdbc.Driver过时警告](https://www.xnani.online/2022/09/17/15.html)
   - [web.xml换过根目录导致报错500](https://www.xnani.online/2022/09/19/83.html)
@@ -100,18 +100,6 @@ Here are some ideas to get you started:
   - [Java](https://www.xnani.online/2022/09/19/88.html)
 
 
-# 鸣谢
 
-****
-
-​<p align="center"><img src="images/20210522180031226.gif" width="300" /></p>
-
-<a name="微信"></a>  <a name="公众号"></a>
-
-加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群]** ，添加好友即可。 公众号也会经常分享一些干货。
-
-微信搜索 **[海拥]** ，第一时间阅读或者扫描下方的二维码。
-
-<p align="center"><img src="images/gongzhonghao300.png" width="300" /><img src="images/0.jpg" width="300" /></p>
 
 
