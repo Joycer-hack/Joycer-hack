@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 # 目录
 
-<img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/csdn.jpg" width="60"/>
+<a href="https://gitee.com/Joycer-hack" target="blank"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/git.jpg" alt="" height="30" width="40" /></a>
 
 - ####   [CSDN](https://blog.csdn.net/weixin_46047677/category_11653961.html)
   
@@ -91,14 +91,14 @@ Here are some ideas to get you started:
   - [数字交通灯](https://blog.csdn.net/weixin_46047677/article/details/124033863)
   
   
-<img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/WebPage.png" width="60"/>
+<a href="https://www.xnani.online" target="_blank"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/WebPage.png" alt="" height="40" width="40" /></a>
 
 - #### [BUG](https://www.xnani.online/category/bug)
   - [com.mysql.jdbc.Driver过时警告](https://www.xnani.online/2022/09/17/15.html)
   - [web.xml换过根目录导致报错500](https://www.xnani.online/2022/09/19/83.html)
 
 
--  width="80" />  [学习笔记](https://www.xnani.online/category/%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0)
+- ####  [学习笔记](https://www.xnani.online/category/%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0)
   - [Java](https://www.xnani.online/2022/09/19/88.html)
 
 
