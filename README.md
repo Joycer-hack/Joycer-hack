@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   - [数字交通灯](https://blog.csdn.net/weixin_46047677/article/details/124033863)
   
   
-<a href="https://www.xnani.online" target="_blank"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220920102043.png" alt="" height="40" width="60" /></a>
+<a href="https://www.xnani.online" target="_blank"><img align="center" src="https://bkimg.cdn.bcebos.com/pic/cb8065380cd79123a00c88dfa7345982b3b780a8?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5" alt="" height="40" width="60" /></a>
 
 - #### [BUG](https://www.xnani.online/category/bug)
   - [com.mysql.jdbc.Driver过时警告](https://www.xnani.online/2022/09/17/15.html)
