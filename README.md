@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 # 目录
 
-<a align="center" href="https://gitee.com/Joycer-hack" target="blank"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4379/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220920101457.png" alt="" height="30" width="40" /></a>
+<a align="center" href="https://gitee.com/Joycer-hack" target="blank"><img align="center" src="https://e-assets.gitee.com/gitee-community-web/_next/static/media/logo-white.a5b0e29c.svg!/quality/100" alt="" height="30" width="40" /></a>
 
 - ####   [CSDN](https://blog.csdn.net/weixin_46047677/category_11653961.html)
   
